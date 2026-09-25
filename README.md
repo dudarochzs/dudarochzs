@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:6D28D9,100:FF2D95&height=180&section=header&text=SYSTEM%20ONLINE&fontSize=42&fontColor=FF2D95&animation=fadeIn&fontAlignY=35&desc=INITIALIZING%20MARIA%20EDUARDA...&descSize=16&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:6D28D9,100:FF2D95&height=180&section=header&text=SYSTEM%20ONLINE&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=INITIALIZING%20MARIA%20EDUARDA...&descSize=16&descColor=E5E7EB&descAlignY=58" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF2D95&center=true&vCenter=true&width=850&lines=Hello%2C+I'm+Maria+Eduarda+%F0%9F%91%8B;ADS+Student+%7C+Technology+%7C+Web+Development;Learning+HTML%2C+CSS+%26+JavaScript;Building+my+first+projects..." alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=850&lines=Hello%2C+I'm+Maria+Eduarda+%F0%9F%91%8B;ADS+Student+%7C+Technology+%7C+Web+Development;Learning+HTML%2C+CSS+%26+JavaScript;Building+my+first+projects..." alt="Typing Animation"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/STATUS-LEARNING-FF2D95?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/FOCUS-WEB%20DEVELOPMENT-6D28D9?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/ADS-STUDENT-A855F7?style=for-the-badge&logo=academia&logoColor=white"/>
+<img src="https://img.shields.io/badge/STATUS-LEARNING-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/FOCUS-WEB%20DEVELOPMENT-A855F7?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/ADS-STUDENT-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/BRAZIL-🇧🇷-111827?style=for-the-badge"/>
 
 </div>
@@ -29,7 +29,6 @@ Atualmente, estou estudando **HTML, CSS e JavaScript**, com foco em desenvolver 
 
 Meu objetivo é evoluir constantemente, criar projetos cada vez melhores e construir minha trajetória profissional na área de tecnologia. 🚀
 
-```text
 ┌─────────────────────────────────────────────────────────┐
 │                    DEVELOPER STATUS                     │
 ├─────────────────────────────────────────────────────────┤
@@ -42,7 +41,6 @@ Meu objetivo é evoluir constantemente, criar projetos cada vez melhores e const
 │  🚀 Evoluindo um código de cada vez                     │
 │                                                         │
 └─────────────────────────────────────────────────────────┘
-```
 
 ---
 
@@ -64,22 +62,25 @@ Meu objetivo é evoluir constantemente, criar projetos cada vez melhores e const
 
 ### 📚 CURRENTLY LEARNING
 
-```text
 > HTML
-[████████████████████░░]  Aprendendo
+>
+> [████████████████████░░] Aprendendo
 
 > JavaScript
-[██████████████░░░░░░░░]  Estudando
+>
+> [██████████████░░░░░░░░] Estudando
 
 > CSS
-[███████░░░░░░░░░░░░░░░]  Conhecimento básico
+>
+> [███████░░░░░░░░░░░░░░░] Conhecimento básico
 
 > Lógica de Programação
-[██████████░░░░░░░░░░░░]  Em desenvolvimento
+>
+> [██████████░░░░░░░░░░░░] Em desenvolvimento
 
 > Modelagem de Dados
-[██████░░░░░░░░░░░░░░░░]  Iniciando
-```
+>
+> [██████░░░░░░░░░░░░░░░░] Iniciando
 
 > Minha stack será atualizada conforme eu evoluir durante o curso de ADS.
 
@@ -95,7 +96,7 @@ Meu objetivo é evoluir constantemente, criar projetos cada vez melhores e const
 
 <img src="https://img.shields.io/badge/VS%20Code-6D28D9?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-A855F7?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-FF2D95?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 
 </div>
 
@@ -119,7 +120,7 @@ Projeto desenvolvido durante meus estudos para praticar estrutura HTML, títulos
 <br>
 
 <a href="https://github.com/dudarochzs">
-<img src="https://img.shields.io/badge/MEU_GITHUB-FF2D95?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/MEU_GITHUB-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -134,7 +135,7 @@ A ideia é continuar colocando em prática os conhecimentos adquiridos durante o
 
 <br>
 
-<img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
 
 </td>
 
@@ -147,7 +148,6 @@ A ideia é continuar colocando em prática os conhecimentos adquiridos durante o
 
 # `> CURRENT_MISSION`
 
-```bash
 ┌──[maria@github]─[~/learning]
 └─$ ./current_goals.sh
 
@@ -166,7 +166,6 @@ A ideia é continuar colocando em prática os conhecimentos adquiridos durante o
 
 STATUS: LEARNING...
 NEXT_OBJECTIVE: KEEP BUILDING 🚀
-```
 
 ---
 
@@ -174,9 +173,9 @@ NEXT_OBJECTIVE: KEEP BUILDING 🚀
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dudarochzs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dudarochzs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudarochzs&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudarochzs&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
 </div>
 
@@ -184,37 +183,7 @@ NEXT_OBJECTIVE: KEEP BUILDING 🚀
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=dudarochzs&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# `> ACTIVITY_GRAPH`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dudarochzs&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
-
----
-
-# `> GITHUB_TROPHIES`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=dudarochzs&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"/>
-
-</div>
-
----
-
-# `> CONTRIBUTION_MATRIX`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/dudarochzs/dudarochzs/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+<img src="https://streak-stats.demolab.com/?user=dudarochzs&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -229,7 +198,7 @@ NEXT_OBJECTIVE: KEEP BUILDING 🚀
 </a>
 
 <a href="mailto:dudaalmeida2129@gmail.com">
-<img src="https://img.shields.io/badge/Email-dudaalmeida2129%40gmail.com-FF2D95?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-dudaalmeida2129%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/dudarochzs">
@@ -242,7 +211,6 @@ NEXT_OBJECTIVE: KEEP BUILDING 🚀
 
 <div align="center">
 
-```text
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
 ║              SYSTEM STATUS: ONLINE                      ║
@@ -254,8 +222,9 @@ NEXT_OBJECTIVE: KEEP BUILDING 🚀
 ║                    MARIA EDUARDA                         ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
-```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D95,50:6D28D9,100:050505&height=120&section=footer"/>
+
+</div>
 
 </div>
