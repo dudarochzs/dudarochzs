@@ -61,12 +61,7 @@ Meu objetivo é evoluir constantemente, criar projetos cada vez melhores e const
 <p style="color:#FFFFFF">
 
 <strong>DEVELOPER STATUS</strong>
-
 <br><br>
-
-👩‍💻 Maria Eduarda  
-
-<br>
 
 🎓 Análise e Desenvolvimento de Sistemas  
 
