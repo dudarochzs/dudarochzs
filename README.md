@@ -8,43 +8,23 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/STATUS-LEARNING-FF2D95?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/LEARNING-FF2D95?style=for-the-badge&logo=bookstack&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/FOCUS-WEB%20DEVELOPMENT-6D28D9?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/WEB%20DEVELOPMENT-6D28D9?style=for-the-badge&logo=html5&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/ADS-STUDENT-A855F7?style=for-the-badge&logo=academia&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/BRAZIL-🇧🇷-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ADS%20STUDENT-A855F7?style=for-the-badge&logo=academia&logoColor=white"/>
 
 </div>
 
 ---
 
-# <span style="color:#FFFFFF">> SOBRE_MIM</span>
+# > SOBRE
 
 <div align="center">
 
-<p style="color:#FFFFFF">
-
-Olá! 
-
+Olá! Meu nome é **Maria Eduarda** e sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**. Atualmente, estou desenvolvendo meus conhecimentos em **desenvolvimento web**, com foco em **HTML, CSS, Java e lógica de programação**. 
 <br><br>
-
-Meu nome é <strong>Maria Eduarda</strong> e sou estudante de <strong>Análise e Desenvolvimento de Sistemas (ADS)</strong>.
-
-<br><br>
-
-Estou no início da minha jornada na área de tecnologia, aprendendo os fundamentos de desenvolvimento e colocando meus conhecimentos em prática através dos meus primeiros projetos.
-
-<br><br>
-
-Atualmente, estou estudando principalmente <strong>HTML e CSS</strong>, além de desenvolver minha lógica de programação e conhecer diferentes áreas da tecnologia ao longo do curso.
-
-<br><br>
-
-Meu objetivo é evoluir constantemente, criar projetos cada vez melhores e construir minha trajetória profissional na área de tecnologia. 
-
-</p>
+Estou construindo meus primeiros projetos e buscando evoluir continuamente na área de tecnologia.
 
 </div>
 
@@ -58,24 +38,24 @@ Meu objetivo é evoluir constantemente, criar projetos cada vez melhores e const
 
 <td>
 
-<p style="color:#FFFFFF">
+<p align="center">
 
 <strong>DEVELOPER STATUS</strong>
 <br><br>
 
-🎓 Análise e Desenvolvimento de Sistemas  
+🎓 Análise e Desenvolvimento de Sistemas
 
 <br>
 
-🌐 Desenvolvimento Web  
+🌐 Desenvolvimento Web
 
 <br>
 
-💻 Primeiros projetos  
+💻 Primeiros projetos
 
 <br>
 
-📚 Aprendizado contínuo  
+📚 Aprendizado contínuo
 
 <br>
 
@@ -93,17 +73,17 @@ Meu objetivo é evoluir constantemente, criar projetos cada vez melhores e const
 
 ---
 
-# <span style="color:#FFFFFF">> TECH_STACK</span>
+# > TECH_STACK
 
 <div align="center">
 
-<p style="color:#FFFFFF">
+<p>
 
 🌐 <strong>DESENVOLVIMENTO WEB</strong>
 
 </p>
 
-<img src="https://skillicons.dev/icons?i=html,css"/>
+<img src="https://skillicons.dev/icons?i=html,css,java"/>
 
 <br><br>
 
@@ -111,15 +91,17 @@ Meu objetivo é evoluir constantemente, criar projetos cada vez melhores e const
 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
 <br><br>
 
-<p style="color:#FFFFFF">
+<p>
 
 📚 <strong>ATUALMENTE ESTUDANDO</strong>
 
 <br><br>
 
-HTML  
+HTML
 
 <br>
 
@@ -127,7 +109,7 @@ HTML
 
 <br><br>
 
-CSS  
+CSS
 
 <br>
 
@@ -135,7 +117,15 @@ CSS
 
 <br><br>
 
-Lógica de Programação  
+Java
+
+<br>
+
+████████░░░░░░░░░░░░ — Iniciando
+
+<br><br>
+
+Lógica de Programação
 
 <br>
 
@@ -143,7 +133,7 @@ Lógica de Programação
 
 <br><br>
 
-Modelagem de Dados  
+Modelagem de Dados
 
 <br>
 
@@ -159,7 +149,7 @@ Minha stack será atualizada conforme eu evoluir durante o curso de ADS.
 
 ---
 
-# <span style="color:#FFFFFF">> TOOLS</span>
+# > TOOLS
 
 <div align="center">
 
@@ -177,7 +167,7 @@ Minha stack será atualizada conforme eu evoluir durante o curso de ADS.
 
 ---
 
-# <span style="color:#FFFFFF">> PROJECTS</span>
+# > PROJECTS
 
 <div align="center">
 
@@ -193,7 +183,7 @@ Minha stack será atualizada conforme eu evoluir durante o curso de ADS.
 
 </div>
 
-<p style="color:#FFFFFF">
+<p>
 
 Meu primeiro projeto de página web utilizando <strong>HTML e CSS</strong>.
 
@@ -225,7 +215,7 @@ Projeto desenvolvido durante meus estudos para praticar estrutura HTML, títulos
 
 </div>
 
-<p style="color:#FFFFFF">
+<p>
 
 Novo projeto em desenvolvimento.
 
@@ -253,11 +243,11 @@ A ideia é continuar colocando em prática os conhecimentos adquiridos durante o
 
 ---
 
-# <span style="color:#FFFFFF">> CURRENT_MISSION</span>
+# > CURRENT_MISSION
 
 <div align="center">
 
-<p style="color:#FFFFFF">
+<p>
 
 <strong>maria@github:~/learning</strong>
 
@@ -271,17 +261,13 @@ CURRENT GOALS
 
 <br><br>
 
-✓ Iniciar ADS  
+→ Desenvolver lógica de programação
 
-✓ Aprender HTML  
+→ Aprimorar desenvolvimento web
 
-✓ Aprender CSS  
+→ Conhecer novas tecnologias
 
-✓ Criar primeiros projetos  
-
-→ Desenvolver lógica de programação  
-
-→ Aprimorar desenvolvimento web  
+→ Construir meu portfólio
 
 → Evoluir profissionalmente na área de tecnologia
 
@@ -299,7 +285,7 @@ CURRENT GOALS
 
 ---
 
-# <span style="color:#FFFFFF">> GITHUB_STATS</span>
+# > GITHUB_STATS
 
 <div align="center">
 
@@ -315,7 +301,7 @@ CURRENT GOALS
 
 ---
 
-# <span style="color:#FFFFFF">> CONNECT</span>
+# > CONNECT
 
 <div align="center">
 
@@ -353,7 +339,7 @@ CURRENT GOALS
 
 <td>
 
-<p align="center" style="color:#FFFFFF">
+<p align="center">
 
 <strong>SYSTEM STATUS: ONLINE</strong>
 
@@ -380,5 +366,7 @@ CURRENT GOALS
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D95,50:6D28D9,100:050505&height=120&section=footer" width="100%"/>
+
+</div>
 
 </div>
