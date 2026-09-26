@@ -345,7 +345,20 @@ CURRENT GOALS
 
 <br><br>
 
-"Every expert was once a beginner."
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║                         ║
+║                                                          ║
+║       "Todo especialista já foi iniciante."             ║
+║                                                          ║
+║          CONTINUE APRENDENDO • CONTINUE CRIANDO         ║
+║                                                          ║
+║                    MARIA EDUARDA                         ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
 
 <br><br>
 
