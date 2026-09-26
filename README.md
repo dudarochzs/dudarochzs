@@ -345,24 +345,11 @@ CURRENT GOALS
 
 <br><br>
 
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║                         ║
-║                                                          ║
-║       "Todo especialista já foi iniciante."             ║
-║                                                          ║
-║          CONTINUE APRENDENDO • CONTINUE CRIANDO         ║
-║                                                          ║
-║                    MARIA EDUARDA                         ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
+"Todo especialista já foi um iniciante"
 
 <br><br>
 
-<strong>KEEP LEARNING • KEEP BUILDING</strong>
+ CONTINUE APRENDENDO • CONTINUE CRIANDO
 
 <br><br>
 
