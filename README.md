@@ -22,7 +22,9 @@
 
 <div align="center">
 
-Olá! Meu nome é **Maria Eduarda** e sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**. Atualmente, estou desenvolvendo meus conhecimentos em **desenvolvimento web**, com foco em **HTML, CSS, Java e lógica de programação**. 
+Olá! Meu nome é **Maria Eduarda** e sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**. 
+<br><br>
+Atualmente, estou desenvolvendo meus conhecimentos em **desenvolvimento web**, com foco em **HTML, CSS, Java e lógica de programação**. 
 <br><br>
 Estou construindo meus primeiros projetos e buscando evoluir continuamente na área de tecnologia.
 
