@@ -107,7 +107,7 @@ HTML
 
 <br>
 
-████████████████████░░ — Aprendendo
+████████████░░░░░░░ — Aprendendo
 
 <br><br>
 
@@ -115,7 +115,7 @@ CSS
 
 <br>
 
-████████████████░░░░░░ — Aprendendo
+████████░░░░░░░░░░░░ — Aprendendo
 
 <br><br>
 
@@ -131,7 +131,7 @@ Lógica de Programação
 
 <br>
 
-███████████░░░░░░░░░░░ — Em desenvolvimento
+████████░░░░░░░░░░░░ — Em desenvolvimento
 
 <br><br>
 
