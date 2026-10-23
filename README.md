@@ -279,22 +279,6 @@ CURRENT GOALS
 
 ---
 
-# > GITHUB_STATS
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dudarochzs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudarochzs&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=dudarochzs&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 # > CONNECT
 
 <div align="center">
