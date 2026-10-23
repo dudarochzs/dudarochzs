@@ -115,7 +115,7 @@ CSS
 
 <br>
 
-████████░░░░░░░░░░░░ — Aprendendo
+█████░░░░░░░░░░░░░░ — Aprendendo
 
 <br><br>
 
@@ -123,7 +123,7 @@ Java
 
 <br>
 
-████████░░░░░░░░░░░░ — Iniciando
+██████░░░░░░░░░░░░░░ — Iniciando
 
 <br><br>
 
@@ -131,7 +131,7 @@ Lógica de Programação
 
 <br>
 
-████████░░░░░░░░░░░░ — Em desenvolvimento
+█████░░░░░░░░░░░░░░ — Em desenvolvimento
 
 <br><br>
 
@@ -139,7 +139,7 @@ Modelagem de Dados
 
 <br>
 
-███████░░░░░░░░░░░░░░░ — Iniciando
+█████░░░░░░░░░░░░░░ — Iniciando
 
 <br><br>
 
