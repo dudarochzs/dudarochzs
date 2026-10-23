@@ -275,14 +275,6 @@ CURRENT GOALS
 
 <br><br>
 
-<strong>STATUS: LEARNING...</strong>
-
-<br>
-
-<strong>NEXT_OBJECTIVE: KEEP BUILDING 🚀</strong>
-
-</p>
-
 </div>
 
 ---
